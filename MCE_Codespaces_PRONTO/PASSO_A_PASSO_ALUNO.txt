@@ -1,0 +1,30 @@
+MCE - PASSO A PASSO DO ALUNO NO CODESPACES
+
+1) Abra o repositório da equipe no GitHub.
+2) Clique em CODE.
+3) Clique em CODESPACES.
+4) Clique em CREATE CODESPACE ON MAIN.
+5) Aguarde o ambiente abrir.
+6) Aguarde a instalação automática terminar.
+7) Abra TERMINAL > NEW TERMINAL.
+8) Digite:
+
+   npm run dev
+
+9) Abra a aba PORTS.
+10) Localize a porta 5173.
+11) Clique em OPEN IN BROWSER.
+
+LOGIN PARA TESTE:
+E-mail: admin@escola.edu.br
+Senha: 1234
+
+A autenticação ainda é simulada.
+
+SE DER ERRO:
+1) npm install
+2) npm run dev
+
+OU execute:
+
+./APRESENTAR.sh
